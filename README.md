@@ -5,7 +5,7 @@ Go-event is a simple event system.
 
 ## Get the package
 ```bash
-$ go get -u github.com/AlexanderGrom/go-event
+$ go get -u github.com/vernellparker/g-events
 ```
 
 ## Examples
